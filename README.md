@@ -1,2 +1,5 @@
-# brand-consultant-sara-data
-برند شخصی مشاور داده سارا احمدی
+# سارا احمدی — مشاور داده
+
+صفحه برند شخصی کامل فارسی.
+
+Pages: https://beig-rules.github.io/brand-consultant-sara-data/
